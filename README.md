@@ -8,19 +8,25 @@ Olá\! Sou o Felipe Zago, um desenvolvedor com grande curiosidade por aprendizad
 
 ### 🧰 Linguagens e Ferramentas
 
-\<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)"/\>
-\<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)" /\>
-\<img align="left" alt="Kafka" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg)" /\>
-\<img align="left" alt="React" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" /\>
-\<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg)" /\>
-\<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)" /\>
-\<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" /\>
-\<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" /\>
-\<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" /\>
-\<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" /\>
-\<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" /\>
+Com certeza\! Para formatar a seção de "Linguagens e Ferramentas" exatamente como na imagem que você enviou, precisamos ajustar o tamanho dos ícones e remover as tags `align="left"` e `style="padding-right:10px;"` que adicionam espaçamento. Em vez disso, usaremos um espaço simples (`&nbsp;`) entre os ícones para emular a separação visual.
 
-\<br /\>
+Considerando as tecnologias que você listou anteriormente, e o novo formato, aqui está a sua seção "Linguagens e Ferramentas" atualizada:
+
+-----
+
+### 🧰 Linguagens e Ferramentas
+
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" height="30" alt="java logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)" height="30" alt="spring logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg)" height="30" alt="kafka logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" height="30" alt="react logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg)" height="30" alt="nestjs logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)" height="30" alt="angular logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" height="30" alt="postgresql logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" height="30" alt="docker logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" height="30" alt="mongodb logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" height="30" alt="git logo" /\>   
+\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" height="30" alt="github logo" /\>
 
 -----
 ### 📞 Contato
