@@ -8,7 +8,7 @@ Olá\! Sou o **Felipe Zago**. Como desenvolvedor, meu foco está no **aprendizad
 
 ### 🧰 Linguagens e Ferramentas
 
-<div style="display: flex; align-items: center; gap: 100px;">
+<div style="display: flex; align-items: center; gap: 200px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka logo" />
@@ -20,9 +20,3 @@ Olá\! Sou o **Felipe Zago**. Como desenvolvedor, meu foco está no **aprendizad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
-
------
-### 📞 Contato
-
-* **LinkedIn**: [Felipe Zag0](https://www.linkedin.com/in/felipezag0/)
-* **Email**: felipezago29@gmail.com
