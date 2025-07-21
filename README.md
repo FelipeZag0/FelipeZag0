@@ -8,7 +8,7 @@ Olá\! Sou o **Felipe Zago**. Como desenvolvedor, meu foco está no **aprendizad
 
 ### 🧰 Linguagens e Ferramentas
 
-<div style="display: flex; align-items: center; gap: 200px;">
+<div style= gap: 200px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka logo" />
