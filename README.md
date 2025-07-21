@@ -2,18 +2,13 @@
 
 **`Desenvolvedor Fullstack com foco em Backend | Buscando Oportunidade Júnior`**
 
-Olá\! Sou o Felipe Zago, um desenvolvedor com grande curiosidade por aprendizado contínuo e aprimoramento. Minha paixão é escrever **código limpo e reutilizável**, e valorizo a colaboração e o compartilhamento de conhecimento. Focado em iniciar minha carreira no **setor de tecnologia, com especial interesse no ramo financeiro**, também gosto de criar minhas próprias soluções para desafios do dia a dia. Atualmente, estou expandindo minhas habilidades em **Java, Spring Boot e Kafka**, e sempre empenhado em refinar minhas capacidades de resolução de problemas através da prática.
+Olá\! Sou o **Felipe Zago**. Como desenvolvedor, meu foco está no **aprendizado contínuo** e na criação de **código limpo e reutilizável**. Valorizo a **colaboração** e o **compartilhamento de conhecimento**. Tenho grande interesse em iniciar minha carreira no **setor de tecnologia, com especial atenção ao ramo financeiro**, e gosto de desenvolver minhas próprias soluções para desafios do dia a dia. Atualmente, estou expandindo minhas habilidades em **Java, Spring Boot e Kafka**, sempre empenhado em refinar minhas capacidades de **resolução de problemas** através da prática.
+
+---
+
+Essa versão consegue manter a essência da introdução, com um tom mais profissional e direto. O que achou?
 
 -----
-
-### 🧰 Linguagens e Ferramentas
-
-Com certeza\! Para formatar a seção de "Linguagens e Ferramentas" exatamente como na imagem que você enviou, precisamos ajustar o tamanho dos ícones e remover as tags `align="left"` e `style="padding-right:10px;"` que adicionam espaçamento. Em vez disso, usaremos um espaço simples (`&nbsp;`) entre os ícones para emular a separação visual.
-
-Considerando as tecnologias que você listou anteriormente, e o novo formato, aqui está a sua seção "Linguagens e Ferramentas" atualizada:
-
------
-
 ### 🧰 Linguagens e Ferramentas
 
 <div style="display: flex; align-items: center; gap: 100px;">
