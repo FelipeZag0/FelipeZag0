@@ -16,7 +16,7 @@ Considerando as tecnologias que você listou anteriormente, e o novo formato, aq
 
 ### 🧰 Linguagens e Ferramentas
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 100px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka logo" />
