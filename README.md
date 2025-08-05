@@ -1,6 +1,6 @@
 # Felipe Zago
 
-**`Desenvolvedor Fullstack com foco em Backend | Buscando Oportunidade Júnior`**
+**`Desenvolvedor Fullstack com foco em Backend | Buscando Oportunidade`**
 
 Olá\! Sou o **Felipe Zago**, desenvolvedor em formação, apaixonado por **aprender**, **resolver problemas reais** e **escrever código limpo**.  
 Estou me especializando em **Java**, **Spring Boot** e **Kafka**, sempre buscando crescer através de **projetos desafiadores** e da **troca com pessoas experientes**.  
