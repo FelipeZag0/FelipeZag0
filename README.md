@@ -8,7 +8,7 @@ Quero **agregar valor a times e iniciativas sólidas**, com foco em **evolução
 
 ----
 
-### 🧰 Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" style="margin: 0 40px;" />
