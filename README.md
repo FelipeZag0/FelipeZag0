@@ -2,9 +2,12 @@
 
 **`Desenvolvedor Fullstack com foco em Backend | Buscando Oportunidade`**
 
-**Olá\!** Sou **Felipe Zago**, desenvolvedor **Java Backend** em formação, com experiência prática em **Java**, **Spring Boot**, **APIs RESTful**, **testes automatizados** e **Docker**. Atuação em projetos acadêmicos e pessoais, aplicando boas práticas de código (**SOLID**, **Clean Code**) e **metodologias ágeis** (**Scrum**).
-Formação em **Análise e Desenvolvimento de Sistemas (PUCRS)** e histórico profissional em setores de alta complexidade técnica, o que reforça **disciplina**, **atenção a detalhes** e **resolução de problemas**.
+**Olá!** Sou **Felipe Zago**, desenvolvedor **Java Backend** em formação, com experiência prática em **Java**, **Spring Boot**, **APIs RESTful**, **testes automatizados** e **Docker**. Participei de projetos acadêmicos e pessoais aplicando boas práticas de código (**SOLID**, **Clean Code**) e **metodologias ágeis** (**Scrum**).  
+
+Formado em **Análise e Desenvolvimento de Sistemas (PUCRS)**, possuo histórico profissional em ambientes de alta complexidade técnica, o que fortalece minha **disciplina**, **atenção aos detalhes** e **capacidade de resolver problemas**.  
+
 Motivado por **inovação** e **aprendizado contínuo**, busco contribuir em equipes que valorizam **qualidade**, **colaboração** e **evolução constante**.
+
 
 ----
 
